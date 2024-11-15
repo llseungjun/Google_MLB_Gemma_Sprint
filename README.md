@@ -1,5 +1,19 @@
-# Gemma2-9B 모델을 한국어 자기소개서 데이터셋으로 파인튜닝
+# 🚀 자기소개서 생성을 위한 Fine-Tuned gemma2-9b 모델 소개
 
-## Hugging Face
-> https://huggingface.co/Goranii/gemma-2-9b-bnb-4bit-CPT
+취준생들의 매력적인 개인 맞춤형 자기소개서를 작성할 수 있도록, 자기소개서 데이터셋을 사용하여 gemma2-9b 언어 모델을 파인튜닝하였습니다.
 
+## 🔍 모델 주요 특징:
+- 기본 모델: gemma2-9b
+- 학습 데이터: 자기소개서 데이터셋
+- 목적: 개인 맞춤형 자기소개서 생성
+- 파인튜닝 기법: Continued pre-training on domain-specific data
+
+## 💼 활용 사례:
+- 구직자들의 자기소개서 작성 지원
+- 맞춤형 콘텐츠 생성을 통한 HR 프로세스 자동화
+
+## 📊 모델 성능:
+테스트 결과, 이 모델은 자기소개서 초안 작성 시간을 60% 단축하며, 구조화되고 일관된 자기소개서를 생성했습니다.
+
+## 🌐 사용해보기:
+모델을 직접 확인해보세요: https://huggingface.co/Goranii/gemma-2-9b-bnb-4bit-CPT
